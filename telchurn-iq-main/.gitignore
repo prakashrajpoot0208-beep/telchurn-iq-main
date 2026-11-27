@@ -1,0 +1,39 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Replit
+.replit
+replit.md
+.local/
+.agents/
+
+# Generated
+coverage/
